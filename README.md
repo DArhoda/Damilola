@@ -57,4 +57,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - Detection Lab
 - SOC Automation Project
-- File Permission in Linux
+- File Permission in Linux https://github.com/DArhoda/File-permissions-in-Linux.git
