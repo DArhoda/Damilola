@@ -55,6 +55,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
+<a href="https://docs.google.com/presentation/d/1QZeExbwrEk9IXLYnrHeTEeqScn6CDoYA/edit?usp=sharing&ouid=114156582868392516274&rtpof=true&sd=true">Security Awareness Campaign</a>
 - Detection Lab
 - SOC Automation Project
 - <a href="https://drive.google.com/drive/folders/1ARAfYYPd94p92ZSbOwpInrugQQy2_5Fy?usp=drive_link">Cybersecurity Portfolio</a>
